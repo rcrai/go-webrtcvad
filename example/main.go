@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/cryptix/wav"
-	"github.com/maxhawkins/go-webrtcvad"
+	"github.com/rcrai/go-webrtcvad"
 )
 
 func main() {
